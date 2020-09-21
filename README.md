@@ -1,4 +1,4 @@
-### Halo friend, I'm Miftah MD, Nice to meet you guys 👋
+### Halo friend, I'm Miftah MD, nice to meet you guys 👋
 
 <!--
 **mitragroups/mitragroups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
